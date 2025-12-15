@@ -33,7 +33,7 @@
     },
     {
       "title": "ai-renamer",
-      "description": "Interactive application built for continuous learning",
+      "description": "An AI-powered file renaming tool that uses machine learning to intelligently suggest and apply meaningful file names based on content analysis.",
       "color": "#f093fb",
       "icon": "fab fa-github",
       "technologies": [
@@ -54,7 +54,7 @@
     },
     {
       "title": "live-streamlit-dashboard-python",
-      "description": "Modern web application demonstrating clean code principles",
+      "description": "A real-time interactive dashboard built with Python and Streamlit for data visualization and analytics, featuring live data updates and customizable charts.",
       "color": "#4facfe",
       "icon": "fab fa-github",
       "technologies": [
@@ -75,7 +75,7 @@
     },
     {
       "title": "customer-trends-data-analysis-sql-python-powerbi",
-      "description": "Comprehensive project exploring software design patterns",
+      "description": "End-to-end data analysis project analyzing customer behavior trends using SQL for data extraction, Python for processing, and Power BI for interactive visualizations.",
       "color": "#667eea",
       "icon": "fab fa-github",
       "technologies": [
@@ -96,7 +96,7 @@
     },
     {
       "title": "cohort_analysis",
-      "description": "Educational project for mastering software architecture",
+      "description": "Customer cohort analysis project that segments users by acquisition date to track retention rates, lifetime value, and behavioral patterns over time.",
       "color": "#764ba2",
       "icon": "fab fa-github",
       "technologies": [
@@ -117,7 +117,7 @@
     },
     {
       "title": "user-story-best-practice",
-      "description": "Hands-on learning experience with modern frameworks",
+      "description": "A comprehensive guide and template repository demonstrating best practices for writing effective user stories in Agile product development.",
       "color": "#f093fb",
       "icon": "fab fa-github",
       "technologies": [

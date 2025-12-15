@@ -2,8 +2,8 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-code",
+      "category": "Product Management",
+      "icon": "fas fa-tasks",
       "color": "#667eea",
       "skills": [
         "Product Roadmaps",
@@ -15,23 +15,42 @@
         "Product Lifecycle Management",
         "API Integrations",
         "A/B Testing",
-        "Voice of Customer Analysis",
+        "Voice of Customer Analysis"
+      ]
+    },
+    {
+      "category": "Agile & Scrum",
+      "icon": "fas fa-sync-alt",
+      "color": "#4ECDC4",
+      "skills": [
         "Scrum & Agile Methodologies",
         "Sprint Planning",
         "Backlog Refinement",
         "Scrum Ceremonies",
         "Cross-Functional Collaboration",
         "Capacity Planning",
-        "Risk & Issue Management",
+        "Risk & Issue Management"
+      ]
+    },
+    {
+      "category": "Stakeholder Management",
+      "icon": "fas fa-users",
+      "color": "#764ba2",
+      "skills": [
         "Stakeholder Alignment",
         "Client Onboarding",
         "Post-Implementation Support",
         "Feature Adoption Metrics",
         "Feedback Analysis",
         "CRM",
-        "Stakeholder Communication",
-        "Upsell/Expansion Opportunities",
-        "SQL",
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "category": "Data & Analytics",
+      "icon": "fas fa-chart-bar",
+      "color": "#FF6B6B",
+      "skills": [
         "Power BI",
         "KPI Dashboards",
         "Reporting & Forecasting",
@@ -40,15 +59,28 @@
       ]
     },
     {
-      "category": "Tools & Frameworks",
+      "category": "Tools & Platforms",
       "icon": "fas fa-tools",
-      "color": "#764ba2",
+      "color": "#FFE66D",
       "skills": [
         "Jira",
         "Confluence",
         "Asana",
         "Miro",
         "MS Project"
+      ]
+    },
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#f093fb",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS"
       ]
     }
   ]
