@@ -21,5 +21,13 @@
     }
   ],
   "certificationsTitle": "Certifications & Awards",
-  "certifications": []
+  "certifications": [
+    {
+      "title": "Outstanding Student Employee Award",
+      "issuer": "University of Texas at Arlington - Maverick Activities Center",
+      "date": "2025",
+      "color": "#FFE66D",
+      "icon": "fas fa-trophy"
+    }
+  ]
 }
